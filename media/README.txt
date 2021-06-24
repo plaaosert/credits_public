@@ -6,3 +6,6 @@ Frums 「Credits ＬＯＮＧ」
 
 for yourself.
 Sorry.
+
+-----------
+If you do find a copy, convert it to "credits.wav" and drop it in this /media folder.
