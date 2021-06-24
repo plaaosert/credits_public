@@ -3,8 +3,8 @@
  
  
 # media credits
-All animation work done by me (plaaosert)
-Song credit: Frums - Credits EX https://soundcloud.com/frums/credits-ex
+- All animation work done by me (plaaosert)
+- Song credit: Frums - Credits EX https://soundcloud.com/frums/credits-ex
 
  
 # how to see
