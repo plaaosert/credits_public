@@ -15,4 +15,5 @@ put youtube link here idiot
  Run credits.py. Required libraries:
  - just-playback https://github.com/cheofusi/just_playback
  - keyboard https://github.com/boppreh/keyboard
- - colorama https://github.com/tartley/colorama (The version of colorama used is also included inside this repository)
+ - colorama https://github.com/tartley/colorama
+ The version of colorama used is also included inside this repository.
