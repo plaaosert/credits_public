@@ -8,10 +8,11 @@
 - All animation work done by me (plaaosert)
 - Renderer used is an in-progress command line rendering library for which a separate repository will be created... eventually.
 - Song credit: Frums - Credits EX https://soundcloud.com/frums/credits-ex
+- Song is not included in this repository. Read /media/README.txt.
 
  
 # how to see
-put youtube link here idiot
+- https://youtu.be/o3cKQzrtFgQ
  
  
 # how to run
