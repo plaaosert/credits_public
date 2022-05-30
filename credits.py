@@ -340,7 +340,12 @@ while time.time() - 2 < time_menu:
     time.sleep(0.01)
 
 
-os.system("cls")
+if os.name == "nt":
+    os.system("cls")
+elif os.name == "posix":
+    os.system("clear")
+else:
+    print("\033[2J")
 
 # wave_obj = sa.WaveObject.from_wave_file(filename)
 # play_obj = wave_obj.play()
