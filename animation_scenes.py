@@ -2,6 +2,7 @@
 # Use variable "all_scenes" which contains all scenes defined here.
 # This file also creates the canvas.
 
+import sys
 import animator as am
 from animation_functions import *
 from animation_classes import known_weathers
@@ -214,7 +215,8 @@ title = am.Scene(
             192, am.Generator.at_beat(192),
             am.Generator.no_create(),
             lambda g, b: canvas.set_string(
-                0, Vector2(1, 4), "running pure Python 3.6", Fore.CYAN + Style.NORMAL
+                0, Vector2(1, 4), f"running pure Python {'.'.join(sys.version.split()[0].split('.'))}"
+", Fore.CYAN + Style.NORMAL
             ),
             am.Generator.no_request()
         ),
