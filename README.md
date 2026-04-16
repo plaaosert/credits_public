@@ -25,11 +25,14 @@
 
 - colorama https://github.com/tartley/colorama -
   the version of colorama used is also included inside this repository.
+  
   You can install all required libraries by running:
   
   ```
   pip install -r requirements.txt
   ```
+
+> Note: On Linux systems, you need to use the "root" account to use `keyboard` package.
 
 # play control
 
